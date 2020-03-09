@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 kfp = "==0.1.32"
-configargparse = "*"
+configargparse = "==0.14.0"
 
 [requires]
 python_version = "3.6"
